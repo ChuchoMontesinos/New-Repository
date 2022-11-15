@@ -4,4 +4,4 @@ Exploring github pages
 Primer `.md`
 
 
-Agregando un Link externo [link](google.com)
+Agregando un Link externo [google](www.google.com )
