@@ -5,3 +5,7 @@ Primer `.md`
 
 
 Agregando un Link externo [google](https://www.google.com/)
+
+![Nueva Imagen](/Image 1.jpg)
+
+![Otra](https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg)
