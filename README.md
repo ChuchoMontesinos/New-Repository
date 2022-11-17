@@ -12,4 +12,4 @@ Agregando un Link externo [google](https://www.google.com/)
 
 La otra página [la otra](nueva.md)
 
-<a href="nueva.md", title=Otro link> Nuev </a>
+<a href="nueva.md"> Nuev </a>
