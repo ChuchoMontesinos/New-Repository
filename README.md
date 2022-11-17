@@ -10,4 +10,4 @@ Agregando un Link externo [google](https://www.google.com/)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Bandera" width="20"/>
 
-La otra página [la otra](https://github.com/ChuchoMontesinos/New-Repository/blob/main/nueva.md)
+La otra página [la otra](nueva)
