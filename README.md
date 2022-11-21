@@ -6,10 +6,8 @@ Exploring github pages
 Primer `.md`
 
 
-Agregando un Link externo [google](https://www.google.com/)
+* Agregando un Link externo a Google con formato `[google](https://www.google.com/)` [google](https://www.google.com/)
 
-![Nueva Imagen](https://github.com/ChuchoMontesinos/New-Repository/blob/main/Image%201.jpg = 200x200)
+1. Este es un link a la página *nueva.md* usando el formato `[la otra](nueva.md)` [la otra](nueva.md)
 
-Este es un link a la página *nueva.md* usando el formato `[la otra](nueva.md)` [la otra](nueva.md)
-
-Este es un link a la página *nueva.md* usando el formato `<a href="nueva.md"> la otra </a>` 
+2. Este es un link a la página *nueva.md* usando el formato `<a href="nueva.md"> la otra </a>`  <a href="nueva.md"> la otra </a>
