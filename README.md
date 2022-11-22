@@ -5,8 +5,11 @@ Exploring github pages
 
 Primer `.md`
 
+## Links a otras páginas
 
 * Agregando un Link externo a Google con formato `[google](https://www.google.com/)` [google](https://www.google.com/), *este link se abre en la misma pestaña y no en otra*
+
+* Agregando un Link externo a Google con formato `<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a>`  <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a>, *este link se abre en otra pestaña*
 
 1. Este es un link a la página *nueva.md* usando el formato `[la otra](nueva.md)` [la otra](nueva.md) *este link abre la otra página en la misma pestaña pero con el nombre del repositorio como título y luego el contenido de la página*
 
